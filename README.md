@@ -121,26 +121,3 @@ A visual flowchart representing task dependencies and sequences. Critical for un
 
 ---
 
-## 🔗 GitHub Repository Structure
-
-CenteralLibrary/
-│
-├── backend/
-├── frontend/
-├── assets/
-├── docs/
-│ ├── GanttChart.pdf
-│ ├── NetworkDiagram.pdf
-│ └── Reports/
-│ ├── TaskUsageReport.pdf
-│ ├── ResourceOverview.pdf
-│ └── CostOverview.pdf
-├── README.md
-└── LICENSE
-
-yaml
-Copy
-Edit
-
----
-
