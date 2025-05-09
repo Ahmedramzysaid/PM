@@ -1,123 +1,129 @@
-# 📚 CenteralLibrary Project
+# 📚 CentralLibrary Project
 
-A modern web-based central library management system for organizing books, managing users, and enhancing the digital reading experience. This project integrates front-end design, backend development, authentication, categorization, search features, and administrative tools.
+A modern, web-based central library management system designed to streamline book organization, user management, and digital reading experiences. This project incorporates frontend design, backend development, secure authentication, intelligent categorization, search functionality, and administrative tools.
 
 ---
 
 ## 📌 Project Overview
 
-The goal of this project is to design and implement a centralized library system that streamlines the management of books, users, media, and search functionalities using web technologies.
+The objective of this project is to build a centralized library platform that simplifies the management of digital media, users, and resources using modern web technologies.
 
 ---
 
-## ✅ Project Scheduling Plan
+## ✅ Project Schedule
 
-### 🧩 Task Relationships
+### 🧩 Task Structure
 
-Each task is defined with:
-- **Task Name**
-- **Duration (weeks)**
-- **Predecessor(s)**
+Each task is defined by:
 
-Example:
+* **Task Name**
+* **Estimated Duration (weeks/days)**
+* **Predecessor(s)**
 
-| Task                          | Duration | Predecessor(s)     |
-|-------------------------------|----------|--------------------|
-| Project Planning              | 1 week   | –                  |
-| Design UI Mockups             | 1 week   | Project Planning   |
-| Setup Project Structure       | 2 days   | Design UI Mockups  |
-| User Authentication Module    | 2 weeks  | Setup Project Structure |
-| ...                           | ...      | ...                |
-
----
-
-### 📆 Scheduling New Plan (Calendar)
-
-The project starts on **May 5, 2025**, with sequential tasks scheduled week by week based on dependencies. See the Gantt chart section for detailed scheduling.
+| Task                       | Duration | Predecessor(s)          |
+| -------------------------- | -------- | ----------------------- |
+| Project Planning           | 1 week   | –                       |
+| Design UI Mockups          | 1 week   | Project Planning        |
+| Setup Project Structure    | 2 days   | Design UI Mockups       |
+| User Authentication Module | 2 weeks  | Setup Project Structure |
+| ...                        | ...      | ...                     |
 
 ---
 
-## 📋 Task List
+### 📆 Project Timeline
 
-### 🎯 Milestone Tasks
-- ✅ Project Planning Completion
-- ✅ Authentication System Working
-- ✅ Dashboard Fully Integrated
-- ✅ Final Deployment
+Project kickoff: **May 5, 2025**
 
-### 📁 Summary Tasks
-- **Planning & Analysis**
-- **UI/UX Design**
-- **Backend Development**
-- **Testing and QA**
-- **Deployment**
+Tasks are organized sequentially and aligned with their dependencies. Detailed visualization is available in the Gantt chart section.
 
 ---
 
-## 👥 Resources
+## 📋 Task Management
 
-### 🛠️ Resource Setup
-- **Developers**: Backend, Frontend
-- **UI/UX Designer**
-- **QA Engineer**
-- **Project Manager**
+### 🎯 Milestone Highlights
 
-### 🧩 Resource Assignment
+* ✅ Completion of Project Planning
+* ✅ Functional Authentication System
+* ✅ Fully Integrated Admin Dashboard
+* ✅ Final Deployment & Delivery
 
-| Task                      | Assigned Resource     |
-|---------------------------|-----------------------|
-| UI Mockups                | UI/UX Designer        |
-| Auth Module               | Backend Developer     |
-| Media Integration         | Frontend Developer    |
-| Testing                   | QA Engineer           |
-| Overall Tracking          | Project Manager       |
+### 📁 Task Categories
+
+* **Planning & Analysis**
+* **UI/UX Design**
+* **Backend Development**
+* **Testing & QA**
+* **Deployment**
 
 ---
 
-## 📈 Visual Representations
+## 👥 Project Resources
+
+### 🛠️ Team Structure
+
+* **Frontend Developer**
+* **Backend Developer**
+* **UI/UX Designer**
+* **QA Engineer**
+* **Project Manager**
+
+### 🧩 Resource Allocation
+
+| Task                  | Assigned Team Member |
+| --------------------- | -------------------- |
+| UI Design             | UI/UX Designer       |
+| Authentication Module | Backend Developer    |
+| Media Integration     | Frontend Developer   |
+| QA & Testing          | QA Engineer          |
+| Progress Oversight    | Project Manager      |
+
+---
+
+## 📈 Visual Aids
 
 ### 📊 Gantt Chart
 
-Displays the timeline of all tasks and their interdependencies. Tasks are grouped by SDLC phases (Planning, Analysis, Design, Development, Testing, Deployment).
+Outlines the full project schedule, grouping tasks under SDLC phases: Planning, Design, Development, Testing, and Deployment.
 
 ### 🕸️ Network Diagram
 
-A visual flowchart representing task dependencies and sequences. Critical for understanding the project's flow and potential bottlenecks.
+Illustrates task dependencies and sequences, helping identify workflow bottlenecks and critical paths.
 
 ---
 
-## 📑 Reports
+## 📑 Reporting
 
 ### 📌 Task Usage Report
-- Shows how time and effort are distributed across individual tasks.
 
-### 👥 Resource Overview Report
-- Identifies resource workload, availability, and conflicts.
+Highlights time and effort distribution across project components.
 
-### 💰 Task Cost Overview
-- Estimates and summarizes cost per task based on resource rates and duration.
+### 👥 Resource Overview
+
+Provides insights into team member workload, capacity, and any overlapping responsibilities.
+
+### 💰 Task Cost Breakdown
+
+Outlines estimated costs per task based on time, complexity, and assigned roles.
 
 ---
 
-## 🕒 Critical Path & Duration
+## 🕒 Timeline & Dependencies
 
 ### 📏 Project Duration
-- **Total Duration**: ~13 weeks (including dependencies and parallel tasks)
 
-### 🧮 Critical Path Method (CPM)
-- **Critical Path**:
-  - Project Planning → UI Design → Setup → Authentication → Dashboard → Testing → Deployment
-- Any delay in these tasks directly delays the entire project.
+* **Estimated Total Duration**: \~13 weeks (accounting for parallel and dependent tasks)
 
----
+### 🧮 Critical Path Analysis
 
-## 📦 Deliverables
-
-- 📁 Source Code
-- 📊 Gantt Chart (PNG/PDF)
-- 🕸️ Network Diagram (PNG/PDF)
-- 📑 Reports (Task, Resource, Cost)
-- 📜 README with planning documentation
+* **Path**: Project Planning → UI Design → Project Setup → Authentication → Dashboard → Testing → Deployment
+* **Note**: Any delay in these tasks will impact the overall timeline.
 
 ---
 
+## 📦 Final Deliverables
+
+* 🗂️ Complete Source Code Repository
+* 📊 Gantt Chart (PNG/PDF)
+* 🕸️ Network Diagram (PNG/PDF)
+* 📑 Reports: Task Allocation, Resource Usage, and Cost Analysis
+* 📄 README Documentation with Full Planning Details
